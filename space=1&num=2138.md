@@ -51,7 +51,7 @@ int main()
 
 /*
 [Info]
-Akira Kaito  Handle: akirakaitoac
+Akira Kaito | Handle: akirakaitoac
 Tui La No Mo Ka | Handle: tuilanomoka
 [Info]
 */
